@@ -1,0 +1,24 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&family=Raleway:ital,wght@1,700&family=Trispace:wght@600&display=swap');
+
+.navbar-nav>li {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.course-border {
+    border: 1px solid #E8E8E8;
+}
+
+.asked-qs {
+    width: 700px;
+    max-width: 100%
+}
+
+.fa-brands {
+    color: white;
+}
