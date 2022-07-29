@@ -22,3 +22,8 @@ body {
 .fa-brands {
     color: white;
 }
+
+.fa-star,
+.fa-star-half-stroke {
+    color: goldenrod
+}
