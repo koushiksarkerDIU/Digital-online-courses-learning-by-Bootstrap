@@ -10,6 +10,14 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.bg-color {
+    background-color: #289BDE;
+}
+
+.text-color {
+    color: #289BDE;
+}
+
 .course-border {
     border: 1px solid #E8E8E8;
 }
@@ -26,4 +34,11 @@ body {
 .fa-star,
 .fa-star-half-stroke {
     color: goldenrod
+}
+
+.ellipsis {
+    white-space: nowrap;
+    width: 50px;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
